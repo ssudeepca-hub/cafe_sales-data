@@ -1,0 +1,151 @@
+Order_ID,Date,Time,Item,Category,Quantity,Price,Payment,Cost,Customer_Name,Age_Group,Gender,Customer_Type,Order_Mode,Order_Status,Discount,Final_Price,Tax,Net_Profit,Rating,Day,Is_Weekend,Mobile_Number
+1,01-03-2026,09:10,Latte,Coffee,2,120,UPI,80,Rahul,18-25,Male,New,App,Completed,10,216,10.8,45.2,4,Sunday,Yes,9123456701
+2,01-03-2026,10:20,Espresso,Coffee,1,100,Cash,70,Priya,26-35,Female,Returning,Walk-in,Completed,5,95,4.75,20.25,5,Sunday,Yes,9123456702
+3,01-03-2026,11:00,Sandwich,Snacks,2,150,Card,100,Arjun,18-25,Male,New,App,Completed,0,300,15,100,4,Sunday,Yes,9123456703
+4,01-03-2026,12:30,Brownie,Dessert,3,90,UPI,50,Sneha,26-35,Female,Returning,Walk-in,Completed,10,243,12.15,92.85,5,Sunday,Yes,9123456704
+5,01-03-2026,17:45,Cappuccino,Coffee,2,130,UPI,85,Kiran,36-50,Male,Returning,App,Completed,5,247,12.35,77.65,4,Sunday,Yes,9123456705
+6,02-03-2026,09:15,Latte,Coffee,1,120,Cash,80,Anjali,18-25,Female,New,Walk-in,Completed,0,120,6,34,3,Monday,No,9123456706
+7,02-03-2026,13:00,Fries,Snacks,2,110,Card,70,Rohit,26-35,Male,Returning,App,Completed,10,198,9.9,48.1,4,Monday,No,9123456707
+8,02-03-2026,18:30,Cold Coffee,Coffee,3,140,UPI,90,Meena,18-25,Female,New,App,Completed,5,399,19.95,129.05,5,Monday,No,9123456708
+9,02-03-2026,19:15,Brownie,Dessert,2,90,UPI,50,Rahul,36-50,Male,Returning,Walk-in,Completed,0,180,9,71,4,Monday,No,9123456709
+10,03-03-2026,08:50,Espresso,Coffee,2,100,Cash,70,Priya,18-25,Female,New,App,Completed,10,180,9,31,5,Tuesday,No,9123456710
+11,03-03-2026,12:10,Sandwich,Snacks,1,150,Card,100,Arjun,26-35,Male,Returning,Walk-in,Completed,5,142.5,7.12,35.38,4,Tuesday,No,9123456711
+12,03-03-2026,16:30,Cappuccino,Coffee,3,130,UPI,85,Sneha,18-25,Female,New,App,Completed,0,390,19.5,135.5,5,Tuesday,No,9123456712
+13,03-03-2026,17:20,Fries,Snacks,2,110,Cash,70,Kiran,36-50,Male,Returning,Walk-in,Completed,5,209,10.45,48.55,3,Tuesday,No,9123456713
+14,04-03-2026,10:00,Latte,Coffee,2,120,UPI,80,Anjali,18-25,Female,New,App,Completed,10,216,10.8,45.2,4,Wednesday,No,9123456714
+15,04-03-2026,14:15,Brownie,Dessert,1,90,Card,50,Rohit,26-35,Male,Returning,Walk-in,Completed,0,90,4.5,35.5,4,Wednesday,No,9123456715
+16,04-03-2026,18:00,Cold Coffee,Coffee,2,140,UPI,90,Meena,18-25,Female,New,App,Completed,5,266,13.3,72.7,5,Wednesday,No,9123456716
+17,05-03-2026,09:30,Espresso,Coffee,1,100,Cash,70,Rahul,36-50,Male,Returning,Walk-in,Completed,10,90,4.5,15.5,3,Thursday,No,9123456717
+18,05-03-2026,11:45,Sandwich,Snacks,3,150,UPI,100,Priya,26-35,Female,Returning,App,Completed,5,427.5,21.37,106.13,5,Thursday,No,9123456718
+19,05-03-2026,15:30,Fries,Snacks,2,110,Card,70,Arjun,18-25,Male,New,App,Completed,0,220,11,69,4,Thursday,No,9123456719
+20,05-03-2026,19:00,Cappuccino,Coffee,2,130,UPI,85,Sneha,26-35,Female,Returning,Walk-in,Completed,5,247,12.35,77.65,4,Thursday,No,9123456720
+21,06-03-2026,08:40,Latte,Coffee,3,120,UPI,80,Kiran,36-50,Male,Returning,App,Completed,10,324,16.2,83.8,4,Friday,No,9123456721
+22,06-03-2026,11:20,Espresso,Coffee,2,100,Cash,70,Anjali,18-25,Female,New,Walk-in,Completed,5,190,9.5,41.5,3,Friday,No,9123456722
+23,06-03-2026,13:10,Sandwich,Snacks,2,150,Card,100,Rohit,26-35,Male,Returning,App,Completed,0,300,15,100,5,Friday,No,9123456723
+24,06-03-2026,15:45,Brownie,Dessert,4,90,UPI,50,Meena,18-25,Female,New,App,Completed,10,324,16.2,123.8,5,Friday,No,9123456724
+25,06-03-2026,18:20,Cold Coffee,Coffee,3,140,UPI,90,Rahul,36-50,Male,Returning,Walk-in,Completed,5,399,19.95,129.05,4,Friday,No,9123456725
+26,07-03-2026,09:05,Latte,Coffee,2,120,UPI,80,Anjali,18-25,Female,New,App,Completed,10,216,10.8,45.2,4,Saturday,Yes,9123456726
+27,07-03-2026,10:40,Espresso,Coffee,1,100,Cash,70,Rohit,26-35,Male,Returning,Walk-in,Completed,5,95,4.75,20.25,3,Saturday,Yes,9123456727
+28,07-03-2026,12:15,Sandwich,Snacks,3,150,Card,100,Meena,18-25,Female,New,App,Completed,0,450,22.5,150,5,Saturday,Yes,9123456728
+29,07-03-2026,13:50,Fries,Snacks,2,110,UPI,70,Rahul,36-50,Male,Returning,App,Completed,10,198,9.9,48.1,4,Saturday,Yes,9123456729
+30,07-03-2026,15:10,Brownie,Dessert,2,90,Cash,50,Priya,18-25,Female,New,Walk-in,Completed,5,171,8.55,62.45,4,Saturday,Yes,9123456730
+31,07-03-2026,16:30,Cold Coffee,Coffee,3,140,UPI,90,Arjun,26-35,Male,Returning,App,Completed,0,420,21,150,5,Saturday,Yes,9123456731
+32,07-03-2026,18:00,Cappuccino,Coffee,2,130,Card,85,Sneha,18-25,Female,New,App,Completed,5,247,12.35,77.65,4,Saturday,Yes,9123456732
+33,08-03-2026,09:20,Latte,Coffee,3,120,UPI,80,Kiran,36-50,Male,Returning,App,Completed,10,324,16.2,83.8,4,Sunday,Yes,9123456733
+34,08-03-2026,10:45,Espresso,Coffee,2,100,Cash,70,Anjali,18-25,Female,New,Walk-in,Completed,5,190,9.5,41.5,3,Sunday,Yes,9123456734
+35,08-03-2026,12:10,Sandwich,Snacks,2,150,Card,100,Rohit,26-35,Male,Returning,App,Completed,0,300,15,100,5,Sunday,Yes,9123456735
+36,08-03-2026,13:40,Fries,Snacks,3,110,UPI,70,Meena,18-25,Female,New,App,Completed,10,297,14.85,86.15,5,Sunday,Yes,9123456736
+37,08-03-2026,15:05,Brownie,Dessert,1,90,Cash,50,Rahul,36-50,Male,Returning,Walk-in,Completed,5,85.5,4.27,31.23,4,Sunday,Yes,9123456737
+38,08-03-2026,16:30,Cold Coffee,Coffee,2,140,UPI,90,Priya,18-25,Female,New,App,Completed,0,280,14,86,5,Sunday,Yes,9123456738
+39,08-03-2026,18:10,Cappuccino,Coffee,3,130,Card,85,Arjun,26-35,Male,Returning,App,Completed,5,370.5,18.52,131.98,4,Sunday,Yes,9123456739
+40,09-03-2026,09:00,Latte,Coffee,2,120,UPI,80,Sneha,18-25,Female,New,App,Completed,10,216,10.8,45.2,4,Monday,No,9123456740
+41,09-03-2026,10:25,Espresso,Coffee,1,100,Cash,70,Kiran,36-50,Male,Returning,Walk-in,Completed,5,95,4.75,20.25,3,Monday,No,9123456741
+42,09-03-2026,11:50,Sandwich,Snacks,3,150,Card,100,Anjali,18-25,Female,New,App,Completed,0,450,22.5,150,5,Monday,No,9123456742
+43,09-03-2026,13:30,Fries,Snacks,2,110,UPI,70,Rohit,26-35,Male,Returning,App,Completed,10,198,9.9,48.1,4,Monday,No,9123456743
+44,09-03-2026,15:00,Brownie,Dessert,2,90,Cash,50,Meena,18-25,Female,New,Walk-in,Completed,5,171,8.55,62.45,4,Monday,No,9123456744
+45,09-03-2026,16:40,Cold Coffee,Coffee,3,140,UPI,90,Rahul,36-50,Male,Returning,App,Completed,0,420,21,150,5,Monday,No,9123456745
+46,09-03-2026,18:20,Cappuccino,Coffee,2,130,Card,85,Priya,18-25,Female,New,App,Completed,5,247,12.35,77.65,4,Monday,No,9123456746
+47,10-03-2026,09:10,Latte,Coffee,3,120,UPI,80,Arjun,26-35,Male,Returning,App,Completed,10,324,16.2,83.8,4,Tuesday,No,9123456747
+48,10-03-2026,10:35,Espresso,Coffee,2,100,Cash,70,Sneha,18-25,Female,New,Walk-in,Completed,5,190,9.5,41.5,3,Tuesday,No,9123456748
+49,10-03-2026,12:00,Sandwich,Snacks,2,150,Card,100,Kiran,36-50,Male,Returning,App,Completed,0,300,15,100,5,Tuesday,No,9123456749
+50,10-03-2026,13:45,Fries,Snacks,3,110,UPI,70,Anjali,18-25,Female,New,App,Completed,10,297,14.85,86.15,5,Tuesday,No,9123456750
+51,10-03-2026,15:20,Brownie,Dessert,2,90,Cash,50,Rohit,26-35,Male,Returning,Walk-in,Completed,5,171,8.55,62.45,4,Tuesday,No,9123456751
+52,10-03-2026,16:45,Cold Coffee,Coffee,3,140,UPI,90,Meena,18-25,Female,New,App,Completed,0,420,21,150,5,Tuesday,No,9123456752
+53,10-03-2026,18:30,Cappuccino,Coffee,2,130,Card,85,Rahul,36-50,Male,Returning,App,Completed,5,247,12.35,77.65,4,Tuesday,No,9123456753
+54,11-03-2026,09:00,Latte,Coffee,3,120,UPI,80,Priya,18-25,Female,New,App,Completed,10,324,16.2,83.8,4,Wednesday,No,9123456754
+55,11-03-2026,10:20,Espresso,Coffee,1,100,Cash,70,Arjun,26-35,Male,Returning,Walk-in,Completed,5,95,4.75,20.25,3,Wednesday,No,9123456755
+56,11-03-2026,11:50,Sandwich,Snacks,2,150,Card,100,Sneha,18-25,Female,New,App,Completed,0,300,15,100,5,Wednesday,No,9123456756
+57,11-03-2026,13:30,Fries,Snacks,3,110,UPI,70,Kiran,36-50,Male,Returning,App,Completed,10,297,14.85,86.15,5,Wednesday,No,9123456757
+58,11-03-2026,15:10,Brownie,Dessert,1,90,Cash,50,Anjali,18-25,Female,New,Walk-in,Completed,5,85.5,4.27,31.23,4,Wednesday,No,9123456758
+59,11-03-2026,16:40,Cold Coffee,Coffee,2,140,UPI,90,Rohit,26-35,Male,Returning,App,Completed,0,280,14,86,5,Wednesday,No,9123456759
+60,11-03-2026,18:20,Cappuccino,Coffee,3,130,Card,85,Meena,18-25,Female,New,App,Completed,5,370.5,18.52,131.98,4,Wednesday,No,9123456760
+61,12-03-2026,09:15,Latte,Coffee,2,120,UPI,80,Rahul,36-50,Male,Returning,App,Completed,10,216,10.8,45.2,4,Thursday,No,9123456761
+62,12-03-2026,10:45,Espresso,Coffee,2,100,Cash,70,Priya,18-25,Female,New,Walk-in,Completed,5,190,9.5,41.5,3,Thursday,No,9123456762
+63,12-03-2026,12:10,Sandwich,Snacks,3,150,Card,100,Arjun,26-35,Male,Returning,App,Completed,0,450,22.5,150,5,Thursday,No,9123456763
+64,12-03-2026,13:40,Fries,Snacks,2,110,UPI,70,Sneha,18-25,Female,New,App,Completed,10,198,9.9,48.1,4,Thursday,No,9123456764
+65,12-03-2026,15:00,Brownie,Dessert,2,90,Cash,50,Kiran,36-50,Male,Returning,Walk-in,Completed,5,171,8.55,62.45,4,Thursday,No,9123456765
+66,12-03-2026,16:30,Cold Coffee,Coffee,3,140,UPI,90,Anjali,18-25,Female,New,App,Completed,0,420,21,150,5,Thursday,No,9123456766
+67,12-03-2026,18:00,Cappuccino,Coffee,2,130,Card,85,Rohit,26-35,Male,Returning,App,Completed,5,247,12.35,77.65,4,Thursday,No,9123456767
+68,13-03-2026,09:10,Latte,Coffee,3,120,UPI,80,Meena,18-25,Female,New,App,Completed,10,324,16.2,83.8,4,Friday,No,9123456768
+69,13-03-2026,10:30,Espresso,Coffee,1,100,Cash,70,Rahul,36-50,Male,Returning,Walk-in,Completed,5,95,4.75,20.25,3,Friday,No,9123456769
+70,13-03-2026,12:00,Sandwich,Snacks,2,150,Card,100,Priya,18-25,Female,New,App,Completed,0,300,15,100,5,Friday,No,9123456770
+71,13-03-2026,13:20,Fries,Snacks,3,110,UPI,70,Arjun,26-35,Male,Returning,App,Completed,10,297,14.85,86.15,5,Friday,No,9123456771
+72,13-03-2026,15:00,Brownie,Dessert,1,90,Cash,50,Sneha,18-25,Female,New,Walk-in,Completed,5,85.5,4.27,31.23,4,Friday,No,9123456772
+73,13-03-2026,16:40,Cold Coffee,Coffee,2,140,UPI,90,Kiran,36-50,Male,Returning,App,Completed,0,280,14,86,5,Friday,No,9123456773
+74,13-03-2026,18:20,Cappuccino,Coffee,3,130,Card,85,Anjali,18-25,Female,New,App,Completed,5,370.5,18.52,131.98,4,Friday,No,9123456774
+75,14-03-2026,09:00,Latte,Coffee,2,120,UPI,80,Rohit,26-35,Male,Returning,App,Completed,10,216,10.8,45.2,4,Saturday,Yes,9123456775
+76,14-03-2026,10:20,Espresso,Coffee,1,100,Cash,70,Meena,18-25,Female,New,Walk-in,Completed,5,95,4.75,20.25,3,Saturday,Yes,9123456776
+77,14-03-2026,11:50,Sandwich,Snacks,3,150,Card,100,Rahul,36-50,Male,Returning,App,Completed,0,450,22.5,150,5,Saturday,Yes,9123456777
+78,14-03-2026,13:10,Fries,Snacks,2,110,UPI,70,Priya,18-25,Female,New,App,Completed,10,198,9.9,48.1,4,Saturday,Yes,9123456778
+79,14-03-2026,14:40,Brownie,Dessert,2,90,Cash,50,Arjun,26-35,Male,Returning,Walk-in,Completed,5,171,8.55,62.45,4,Saturday,Yes,9123456779
+80,14-03-2026,16:10,Cold Coffee,Coffee,3,140,UPI,90,Sneha,18-25,Female,New,App,Completed,0,420,21,150,5,Saturday,Yes,9123456780
+81,14-03-2026,17:40,Cappuccino,Coffee,2,130,Card,85,Kiran,36-50,Male,Returning,App,Completed,5,247,12.35,77.65,4,Saturday,Yes,9123456781
+82,15-03-2026,09:00,Latte,Coffee,3,120,UPI,80,Anjali,18-25,Female,New,App,Completed,10,324,16.2,83.8,4,Sunday,Yes,9123456782
+83,15-03-2026,10:30,Espresso,Coffee,2,100,Cash,70,Rohit,26-35,Male,Returning,Walk-in,Completed,5,190,9.5,41.5,3,Sunday,Yes,9123456783
+84,15-03-2026,12:00,Sandwich,Snacks,2,150,Card,100,Meena,18-25,Female,New,App,Completed,0,300,15,100,5,Sunday,Yes,9123456784
+85,15-03-2026,13:30,Fries,Snacks,3,110,UPI,70,Rahul,36-50,Male,Returning,App,Completed,10,297,14.85,86.15,5,Sunday,Yes,9123456785
+86,15-03-2026,15:00,Brownie,Dessert,1,90,Cash,50,Priya,18-25,Female,New,Walk-in,Completed,5,85.5,4.27,31.23,4,Sunday,Yes,9123456786
+87,15-03-2026,16:40,Cold Coffee,Coffee,2,140,UPI,90,Arjun,26-35,Male,Returning,App,Completed,0,280,14,86,5,Sunday,Yes,9123456787
+88,15-03-2026,18:20,Cappuccino,Coffee,3,130,Card,85,Sneha,18-25,Female,New,App,Completed,5,370.5,18.52,131.98,4,Sunday,Yes,9123456788
+89,16-03-2026,09:10,Latte,Coffee,2,120,UPI,80,Kiran,36-50,Male,Returning,App,Completed,10,216,10.8,45.2,4,Monday,No,9123456789
+90,16-03-2026,10:40,Espresso,Coffee,1,100,Cash,70,Anjali,18-25,Female,New,Walk-in,Completed,5,95,4.75,20.25,3,Monday,No,9123456790
+91,16-03-2026,12:10,Sandwich,Snacks,3,150,Card,100,Rohit,26-35,Male,Returning,App,Completed,0,450,22.5,150,5,Monday,No,9123456791
+92,16-03-2026,13:50,Fries,Snacks,2,110,UPI,70,Meena,18-25,Female,New,App,Completed,10,198,9.9,48.1,4,Monday,No,9123456792
+93,16-03-2026,15:20,Brownie,Dessert,2,90,Cash,50,Rahul,36-50,Male,Returning,Walk-in,Completed,5,171,8.55,62.45,4,Monday,No,9123456793
+94,16-03-2026,16:50,Cold Coffee,Coffee,3,140,UPI,90,Priya,18-25,Female,New,App,Completed,0,420,21,150,5,Monday,No,9123456794
+95,16-03-2026,18:30,Cappuccino,Coffee,2,130,Card,85,Arjun,26-35,Male,Returning,App,Completed,5,247,12.35,77.65,4,Monday,No,9123456795
+96,17-03-2026,09:00,Latte,Coffee,3,120,UPI,80,Sneha,18-25,Female,New,App,Completed,10,324,16.2,83.8,4,Tuesday,No,9123456796
+97,17-03-2026,10:30,Espresso,Coffee,2,100,Cash,70,Kiran,36-50,Male,Returning,Walk-in,Completed,5,190,9.5,41.5,3,Tuesday,No,9123456797
+98,17-03-2026,12:00,Sandwich,Snacks,2,150,Card,100,Anjali,18-25,Female,New,App,Completed,0,300,15,100,5,Tuesday,No,9123456798
+99,17-03-2026,13:30,Fries,Snacks,3,110,UPI,70,Rohit,26-35,Male,Returning,App,Completed,10,297,14.85,86.15,5,Tuesday,No,9123456799
+100,17-03-2026,15:00,Brownie,Dessert,2,90,Cash,50,Meena,18-25,Female,New,Walk-in,Completed,5,171,8.55,62.45,4,Tuesday,No,9123456800
+101,17-03-2026,16:30,Cold Coffee,Coffee,3,140,UPI,90,Rahul,36-50,Male,Returning,App,Completed,0,420,21,150,5,Tuesday,No,9123456801
+102,17-03-2026,18:10,Cappuccino,Coffee,2,130,Card,85,Priya,18-25,Female,New,App,Completed,5,247,12.35,77.65,4,Tuesday,No,9123456802
+103,18-03-2026,09:00,Latte,Coffee,2,120,UPI,80,Arjun,26-35,Male,Returning,App,Completed,10,216,10.8,45.2,4,Wednesday,No,9123456803
+104,18-03-2026,10:30,Espresso,Coffee,1,100,Cash,70,Sneha,18-25,Female,New,Walk-in,Completed,5,95,4.75,20.25,3,Wednesday,No,9123456804
+105,18-03-2026,12:00,Sandwich,Snacks,3,150,Card,100,Kiran,36-50,Male,Returning,App,Completed,0,450,22.5,150,5,Wednesday,No,9123456805
+106,18-03-2026,13:30,Fries,Snacks,2,110,UPI,70,Anjali,18-25,Female,New,App,Completed,10,198,9.9,48.1,4,Wednesday,No,9123456806
+107,18-03-2026,15:00,Brownie,Dessert,2,90,Cash,50,Rohit,26-35,Male,Returning,Walk-in,Completed,5,171,8.55,62.45,4,Wednesday,No,9123456807
+108,18-03-2026,16:40,Cold Coffee,Coffee,3,140,UPI,90,Meena,18-25,Female,New,App,Completed,0,420,21,150,5,Wednesday,No,9123456808
+109,18-03-2026,18:20,Cappuccino,Coffee,2,130,Card,85,Rahul,36-50,Male,Returning,App,Completed,5,247,12.35,77.65,4,Wednesday,No,9123456809
+110,19-03-2026,09:10,Latte,Coffee,3,120,UPI,80,Priya,18-25,Female,New,App,Completed,10,324,16.2,83.8,4,Thursday,No,9123456810
+111,19-03-2026,10:40,Espresso,Coffee,2,100,Cash,70,Arjun,26-35,Male,Returning,Walk-in,Completed,5,190,9.5,41.5,3,Thursday,No,9123456811
+112,19-03-2026,12:10,Sandwich,Snacks,2,150,Card,100,Sneha,18-25,Female,New,App,Completed,0,300,15,100,5,Thursday,No,9123456812
+113,19-03-2026,13:50,Fries,Snacks,3,110,UPI,70,Kiran,36-50,Male,Returning,App,Completed,10,297,14.85,86.15,5,Thursday,No,9123456813
+114,19-03-2026,15:20,Brownie,Dessert,1,90,Cash,50,Anjali,18-25,Female,New,Walk-in,Completed,5,85.5,4.27,31.23,4,Thursday,No,9123456814
+115,19-03-2026,16:50,Cold Coffee,Coffee,2,140,UPI,90,Rohit,26-35,Male,Returning,App,Completed,0,280,14,86,5,Thursday,No,9123456815
+116,19-03-2026,18:30,Cappuccino,Coffee,3,130,Card,85,Meena,18-25,Female,New,App,Completed,5,370.5,18.52,131.98,4,Thursday,No,9123456816
+117,20-03-2026,09:00,Latte,Coffee,2,120,UPI,80,Rahul,36-50,Male,Returning,App,Completed,10,216,10.8,45.2,4,Friday,No,9123456817
+118,20-03-2026,10:30,Espresso,Coffee,1,100,Cash,70,Priya,18-25,Female,New,Walk-in,Completed,5,95,4.75,20.25,3,Friday,No,9123456818
+119,20-03-2026,12:00,Sandwich,Snacks,3,150,Card,100,Arjun,26-35,Male,Returning,App,Completed,0,450,22.5,150,5,Friday,No,9123456819
+120,20-03-2026,13:30,Fries,Snacks,2,110,UPI,70,Sneha,18-25,Female,New,App,Completed,10,198,9.9,48.1,4,Friday,No,9123456820
+121,20-03-2026,15:00,Brownie,Dessert,2,90,Cash,50,Kiran,36-50,Male,Returning,Walk-in,Completed,5,171,8.55,62.45,4,Friday,No,9123456821
+122,20-03-2026,16:40,Cold Coffee,Coffee,3,140,UPI,90,Anjali,18-25,Female,New,App,Completed,0,420,21,150,5,Friday,No,9123456822
+123,20-03-2026,18:10,Cappuccino,Coffee,2,130,Card,85,Rohit,26-35,Male,Returning,App,Completed,5,247,12.35,77.65,4,Friday,No,9123456823
+124,21-03-2026,09:15,Latte,Coffee,3,120,UPI,80,Meena,18-25,Female,New,App,Completed,10,324,16.2,83.8,4,Saturday,Yes,9123456824
+125,21-03-2026,10:45,Espresso,Coffee,2,100,Cash,70,Rahul,36-50,Male,Returning,Walk-in,Completed,5,190,9.5,41.5,3,Saturday,Yes,9123456825
+126,21-03-2026,12:10,Sandwich,Snacks,2,150,Card,100,Priya,18-25,Female,New,App,Completed,0,300,15,100,5,Saturday,Yes,9123456826
+127,21-03-2026,13:40,Fries,Snacks,3,110,UPI,70,Arjun,26-35,Male,Returning,App,Completed,10,297,14.85,86.15,5,Saturday,Yes,9123456827
+128,21-03-2026,15:00,Brownie,Dessert,1,90,Cash,50,Sneha,18-25,Female,New,Walk-in,Completed,5,85.5,4.27,31.23,4,Saturday,Yes,9123456828
+129,21-03-2026,16:30,Cold Coffee,Coffee,2,140,UPI,90,Kiran,36-50,Male,Returning,App,Completed,0,280,14,86,5,Saturday,Yes,9123456829
+130,21-03-2026,18:00,Cappuccino,Coffee,3,130,Card,85,Anjali,18-25,Female,New,App,Completed,5,370.5,18.52,131.98,4,Saturday,Yes,9123456830
+131,22-03-2026,09:00,Latte,Coffee,2,120,UPI,80,Rohit,26-35,Male,Returning,App,Completed,10,216,10.8,45.2,4,Sunday,Yes,9123456831
+132,22-03-2026,10:20,Espresso,Coffee,1,100,Cash,70,Meena,18-25,Female,New,Walk-in,Completed,5,95,4.75,20.25,3,Sunday,Yes,9123456832
+133,22-03-2026,11:50,Sandwich,Snacks,3,150,Card,100,Rahul,36-50,Male,Returning,App,Completed,0,450,22.5,150,5,Sunday,Yes,9123456833
+134,22-03-2026,13:10,Fries,Snacks,2,110,UPI,70,Priya,18-25,Female,New,App,Completed,10,198,9.9,48.1,4,Sunday,Yes,9123456834
+135,22-03-2026,14:40,Brownie,Dessert,2,90,Cash,50,Arjun,26-35,Male,Returning,Walk-in,Completed,5,171,8.55,62.45,4,Sunday,Yes,9123456835
+136,22-03-2026,16:10,Cold Coffee,Coffee,3,140,UPI,90,Sneha,18-25,Female,New,App,Completed,0,420,21,150,5,Sunday,Yes,9123456836
+137,22-03-2026,17:40,Cappuccino,Coffee,2,130,Card,85,Kiran,36-50,Male,Returning,App,Completed,5,247,12.35,77.65,4,Sunday,Yes,9123456837
+138,23-03-2026,09:10,Latte,Coffee,3,120,UPI,80,Anjali,18-25,Female,New,App,Completed,10,324,16.2,83.8,4,Monday,No,9123456838
+139,23-03-2026,10:40,Espresso,Coffee,2,100,Cash,70,Rohit,26-35,Male,Returning,Walk-in,Completed,5,190,9.5,41.5,3,Monday,No,9123456839
+140,23-03-2026,12:10,Sandwich,Snacks,2,150,Card,100,Meena,18-25,Female,New,App,Completed,0,300,15,100,5,Monday,No,9123456840
+141,23-03-2026,13:50,Fries,Snacks,3,110,UPI,70,Rahul,36-50,Male,Returning,App,Completed,10,297,14.85,86.15,5,Monday,No,9123456841
+142,23-03-2026,15:20,Brownie,Dessert,1,90,Cash,50,Priya,18-25,Female,New,Walk-in,Completed,5,85.5,4.27,31.23,4,Monday,No,9123456842
+143,23-03-2026,16:50,Cold Coffee,Coffee,2,140,UPI,90,Arjun,26-35,Male,Returning,App,Completed,0,280,14,86,5,Monday,No,9123456843
+144,23-03-2026,18:30,Cappuccino,Coffee,3,130,Card,85,Sneha,18-25,Female,New,App,Completed,5,370.5,18.52,131.98,4,Monday,No,9123456844
+145,24-03-2026,09:00,Latte,Coffee,2,120,UPI,80,Kiran,36-50,Male,Returning,App,Completed,10,216,10.8,45.2,4,Tuesday,No,9123456845
+146,24-03-2026,10:30,Espresso,Coffee,1,100,Cash,70,Anjali,18-25,Female,New,Walk-in,Completed,5,95,4.75,20.25,3,Tuesday,No,9123456846
+147,24-03-2026,12:00,Sandwich,Snacks,3,150,Card,100,Rohit,26-35,Male,Returning,App,Completed,0,450,22.5,150,5,Tuesday,No,9123456847
+148,24-03-2026,13:30,Fries,Snacks,2,110,UPI,70,Meena,18-25,Female,New,App,Completed,10,198,9.9,48.1,4,Tuesday,No,9123456848
+149,24-03-2026,15:00,Brownie,Dessert,2,90,Cash,50,Rahul,36-50,Male,Returning,Walk-in,Completed,5,171,8.55,62.45,4,Tuesday,No,9123456849
+150,24-03-2026,16:30,Cold Coffee,Coffee,3,140,UPI,90,Priya,18-25,Female,New,App,Completed,0,420,21,150,5,Tuesday,No,9123456850
